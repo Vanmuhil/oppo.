@@ -1,0 +1,354 @@
+
+}
+.oppoImg{
+    margin-top: px;
+}
+.oppo3{
+  margin-top: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    }
+ nav {
+    color: black;
+    background-color: rgb(190, 168, 168);
+  } 
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  .logo img {
+    width: 100px;
+    height: 50px;
+    margin-right: 10px;
+    position: relative;
+  }
+  .nava {
+    color: black;
+    text-decoration: none;
+    padding: 14px 16px;
+    display: inline-block;
+  }
+  .text{
+    margin-left: 380px;
+    border-radius: 20px;
+    background-color: grey;
+    color: azure;
+    border: 2px solid grey;
+    height: 25px;
+  }
+  .search2{
+    margin-left: 300px;
+    border-radius: 20px;
+    background-color: rgb(212, 198, 198);
+    color: azure;
+    border: 2px solid rgb(212,198,198);
+    height: 25px;
+  }
+  .search3{
+    position: relative;
+    top: 4px;
+    right: 25px;    
+  } 
+  .profile{
+    padding-left: 20px;
+  }
+  .smart1{
+    padding-right: 80px;
+    margin-left: 10px;
+  }
+  .ranvi{
+    margin-top: 122px;
+  }
+  .whole{
+    width:100%;
+    display:flex ;
+    margin:0px 40px 0px 40px;
+}
+#img{
+    margin-left: 250px;
+    margin-top:-80px;
+}
+.div1{
+    width:45%;
+    float: left;
+    height:350px;
+    background-color:  rgb(197, 196, 177);
+    margin-left: 5px;
+    margin-top: 5px;
+    padding-left: 10px;
+    transition:1s;
+}
+.div2{
+    width:45%;
+    float: left;
+    height:350px;
+    background-color:  rgb(197, 196, 177);
+    margin-left:5px;
+    margin-top: 5px;
+    padding-left: 10px;
+    transition:1s;
+}
+.reno10{
+    float:left;
+}
+.subdiv{
+    background-color: rgb(176, 174, 127);
+    height:120px;
+    width:200px;
+    text-align:left;
+    padding: 10px;
+    margin-top:-45%;
+}
+.learn{
+    margin-left:20px;
+} 
+.oppo2{
+  font-size: 25px;
+  padding-bottom: 20px;
+  top: -20px;
+}
+.oppo1{
+    text-align: center;
+    margin-top: 50px;
+}
+.airpods{
+    height: 100px;
+    width: 700px;
+}
+.phone{
+     display: flex;
+     margin:10px 45px 10px 55px;
+}
+.airpods1{
+    margin-left: 50px;
+}
+h4{
+    display: inline;
+    padding: 20px;
+}
+.draw{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
+}
+.winner{
+    padding: 15px;
+}
+.remaind{
+  border: 2px solid black;
+  padding: 0px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 30px;
+  font-size: medium;
+  
+}
+.notify{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 0px;
+  width: 150px;
+  height:30px;
+  font-size: medium;
+}
+.photoGrid{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.photoGrid img{
+  border-radius: 20px;
+
+}
+.H1{
+  text-align: center;
+  background-color:rgb(222, 216, 204);
+  padding: 20px;
+  margin:10px 45px 10px 55px;
+}
+#phone1:hover{
+  scale: 1.1;
+}
+#phone2:hover{
+  scale: 1.1;
+}
+#phone3:hover{
+  scale: 1.1;
+}
+#phone4:hover{
+  scale: 1.1;
+}
+.renopro{
+  text-align: start;
+  margin-left: 50px;
+  color: black;
+}
+.link{
+  display: flex;
+}
+ul{
+  list-style-type: none;
+}
+.ul1{
+  list-style-type: none;
+  display: flex;
+}
+.search{
+  margin-left: 500px;
+  border-radius: 20px;
+  background-color: aqua;
+  color: azure;
+  border: 2px solid aqua;
+  height: 25px;
+}
+.search1{
+  position: relative;
+  top: 6px;
+  right: 25px;
+}
+.oppo{
+  font-size: 50px;
+  padding-bottom: 20px;
+  top: -20px;
+}
+.smart{
+  margin-left: 25px;
+  font-size: 20px;
+} 
+.container1{
+  display:flex;
+  justify-content: space-between;
+  height:55vh;
+}
+.col1{
+   width:16.33%;
+   float: left;
+   height: 100px;
+} 
+footer{
+  background-color: black;
+  color:rgb(103, 108, 107);
+  padding: 50px;
+  margin-top: 40px;
+}
+footer select{
+  background-color: black;
+  color: white;
+  border:none;
+}
+.social{
+  display:inline-flex;
+  position: relative;
+  left:70%;
+  top: -20px;
+  list-style-type: none;
+}
+.face{
+  border-radius:50px;
+  border: 2px solid white;
+  color: black;
+  background-color:white;
+  width: 10px;
+  height: 9px;
+  padding: 9px;
+  margin-right:20px;
+}
+.twit{
+  border-radius:50px;
+  border: 2px solid white;
+  color: black;
+  background-color:white;
+  width: 10px;
+  height: 9px;
+  padding: 10px;
+  margin-right:20px;
+}
+.you{
+  border-radius:50px;
+  border: 2px solid white;
+  color: black;
+  background-color:white;
+  width: 10px;
+  height: 9px;
+  padding: 9px;
+  margin-right:20px;
+}
+.ins{
+  border-radius:50px;
+  border: 2px solid white;
+  color: black;
+  background-color:white;
+  width: 10px;
+  height: 9px;
+  padding: 9px;
+  margin-right:20px;
+}
+footer ul h3{
+  color: white;
+}
+.smart{
+  display: inline-block;
+  font-size:15px;
+}
+.robo{
+  height:3vh;
+}
+.dark{
+  color: aqua;
+}
+footer ul li:hover{
+  color: white;
+}
+hr{
+ background-color:rgb(103, 108, 107);
+}
+.hr1{
+  margin-top: 100px;
+
+}
+#get{
+  padding-left: 20px;
+}
+.col1 ul li{
+  line-height: 25px;
+}
+.div1:hover{
+  scale: 1.2; 
+}
+.div2:hover{
+  scale: 1.2; 
+}
+#phone1{
+  transition: 2s;
+}
+#phone2{
+  transition: 2s;
+}
+#phone3{
+  transition: 2s;
+}
+#phone4{
+  transition: 2s;
+}
+.searchbox{
+  margin-left: 700px;
+  border-radius: 20px;
+}
+.bag{
+  width: 70px;
+  height: 25px;
+  margin-left: -20px;
+}
+.profile{
+  width: 70px;
+  height: 25px;
+  margin-left: -65px;
+}
